@@ -28,6 +28,7 @@
     {"id":{"name":"background2_spr","path":"sprites/background2_spr/background2_spr.yy",},"order":11,},
     {"id":{"name":"Goal_som","path":"sounds/Goal_som/Goal_som.yy",},"order":1,},
     {"id":{"name":"Novice_obj","path":"objects/Novice_obj/Novice_obj.yy",},"order":11,},
+    {"id":{"name":"objetorandom","path":"objects/objetorandom/objetorandom.yy",},"order":12,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
