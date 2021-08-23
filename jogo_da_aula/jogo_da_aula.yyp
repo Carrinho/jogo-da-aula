@@ -30,7 +30,6 @@
     {"id":{"name":"Novice_obj","path":"objects/Novice_obj/Novice_obj.yy",},"order":11,},
     {"id":{"name":"Start_Room","path":"rooms/Start_Room/Start_Room.yy",},"order":3,},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},"order":12,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -45,7 +44,6 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Start_Room","path":"rooms/Start_Room/Start_Room.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"GameOver_room","path":"rooms/GameOver_room/GameOver_room.yy",},},
   ],
