@@ -23,6 +23,7 @@
     {"id":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},"order":3,},
     {"id":{"name":"Tracker_spr","path":"sprites/Tracker_spr/Tracker_spr.yy",},"order":6,},
     {"id":{"name":"Door_obj","path":"objects/Door_obj/Door_obj.yy",},"order":4,},
+    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"order":14,},
     {"id":{"name":"Fog_spr","path":"sprites/Fog_spr/Fog_spr.yy",},"order":7,},
     {"id":{"name":"Lives_spr","path":"sprites/Lives_spr/Lives_spr.yy",},"order":12,},
     {"id":{"name":"GameOver_room","path":"rooms/GameOver_room/GameOver_room.yy",},"order":1,},
