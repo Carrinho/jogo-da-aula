@@ -25,7 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Gerenciador_obj",
+  "name": "inicio_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
