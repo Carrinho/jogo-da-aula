@@ -32,7 +32,6 @@
     {"id":{"name":"background2_spr","path":"sprites/background2_spr/background2_spr.yy",},"order":11,},
     {"id":{"name":"Goal_som","path":"sounds/Goal_som/Goal_som.yy",},"order":1,},
     {"id":{"name":"Novice_obj","path":"objects/Novice_obj/Novice_obj.yy",},"order":11,},
-    {"id":{"name":"gerenciador_obj","path":"objects/gerenciador_obj/gerenciador_obj.yy",},"order":15,},
     {"id":{"name":"dead_som","path":"sounds/dead_som/dead_som.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -48,10 +47,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"GameOver_room","path":"rooms/GameOver_room/GameOver_room.yy",},},
+    {"roomId":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
