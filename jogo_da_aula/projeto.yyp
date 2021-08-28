@@ -8,7 +8,6 @@
     {"id":{"name":"background1_spr","path":"sprites/background1_spr/background1_spr.yy",},"order":10,},
     {"id":{"name":"Tracker_obj","path":"objects/Tracker_obj/Tracker_obj.yy",},"order":7,},
     {"id":{"name":"Swordsman_spr","path":"sprites/Swordsman_spr/Swordsman_spr.yy",},"order":9,},
-    {"id":{"name":"inicio_obj","path":"objects/inicio_obj/inicio_obj.yy",},"order":13,},
     {"id":{"name":"Swordsman_obj","path":"objects/Swordsman_obj/Swordsman_obj.yy",},"order":10,},
     {"id":{"name":"pickup_som","path":"sounds/pickup_som/pickup_som.yy",},"order":2,},
     {"id":{"name":"Wall_spr","path":"sprites/Wall_spr/Wall_spr.yy",},"order":1,},
