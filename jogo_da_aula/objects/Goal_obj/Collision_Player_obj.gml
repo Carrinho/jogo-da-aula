@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 6E2B70CA
+/// @DnDArgument : "value" "40"
+/// @DnDArgument : "value_relative" "1"
+/// @DnDArgument : "var" "pontos"
+global.pontos += 40;
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 3DC076E6
