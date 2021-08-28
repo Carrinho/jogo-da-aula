@@ -3,6 +3,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":2,},
     {"id":{"name":"Door_spr","path":"sprites/Door_spr/Door_spr.yy",},"order":4,},
     {"id":{"name":"Diamante_spr","path":"sprites/Diamante_spr/Diamante_spr.yy",},"order":3,},
+    {"id":{"name":"gerenciador_obj","path":"objects/gerenciador_obj/gerenciador_obj.yy",},"order":15,},
     {"id":{"name":"Novice_spr","path":"sprites/Novice_spr/Novice_spr.yy",},"order":8,},
     {"id":{"name":"Player_spr","path":"sprites/Player_spr/Player_spr.yy",},"order":0,},
     {"id":{"name":"background1_spr","path":"sprites/background1_spr/background1_spr.yy",},"order":10,},
@@ -47,10 +48,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"GameOver_room","path":"rooms/GameOver_room/GameOver_room.yy",},},
-    {"roomId":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
